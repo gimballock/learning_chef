@@ -1,0 +1,156 @@
+Response: <!DOCTYPE html>
+<html>
+<head>
+    <!-- Begin Chartbeat Part 1 (goes right after the opening head tag) -->
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <!-- End Chartbeat Part 1 -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+  <title>Opscode Community</title>
+
+  <link href="/stylesheets/style.css?d366ad7a1eeb347f16e80d55860575d231fc61e3" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/stylesheets/cached-combined-style.css?d366ad7a1eeb347f16e80d55860575d231fc61e3" media="screen" rel="stylesheet" type="text/css" />
+  <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/stylesheets/lt7.css" /><![endif]-->
+  <link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/humanity/jquery-ui.css" media="screen" rel="stylesheet" type="text/css" />
+  <script src="/javascripts/modernizr.js"></script>
+  <link rel="icon" href="/favicon.png" type="image/png" />
+  <link rel="shortcut icon" href="/favicon.ico" />
+
+  
+</head>
+<body id="community" class="application index">
+  <div id="header">
+    <div class="container">
+      <a class="logo" href="/"><img src="/images/new_community_logo.png" title="Opscode Community" /></a>
+      <div class="top">
+        <ul>
+          <li class="first"><a href="/login?to=%2Fapi%2Fv1%2Fcookbooks%2Fapplication%2Fversions%2F%2FUsers%2Fgimballock">Community Login</a></li>
+          <li><a href="/users/new">Sign Up</a></li>
+          <li><a href="http://www.opscode.com/account/password_resets/new">Recover Password</a></li>
+          <li class="facebook"><a href="https://www.facebook.com/pages/Opscode/99334479301" id="facebookLink"></a></li>
+          <li class="twitter"><a href="http://twitter.com/#!/opscode" id="twitterLink"></a></li>
+        </ul>
+      </div>
+      <div class="menu">
+        <ul>
+          <li class="cookbooks">
+            <div class="label"><a href="/cookbooks">Cookbooks</a></div>
+          </li>
+          <li class="users">
+            <div class="label"><a href="/users">Users</a></div>
+          </li>
+          <li class="chat">
+            <div class="label"><a href="/chat/chef">Chat</a></div>
+          </li>
+          <li class="callout">
+            <div class="label"><a href="//www.opscode.com/">Opscode.com</a></div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div id="subnav">
+    <div class="container">
+      <div class="search">
+<form action="/search" method="get">          <input class="search-input" id="query" name="query" type="text" />
+          <input id="scope" name="scope" type="hidden" value="application" />
+          <button class="search-icon" type="submit" title="Search Cookbooks">Search</button>
+</form>      </div>
+
+      <ul class="breadcrumbs">
+        <li class="home active"><a href="/" title="Home">&nbsp;</a></li>
+        
+      </ul>
+      <ul class="ctxtnav">
+        
+      </ul>
+    </div>
+  </div>
+
+  <div id="content" class="">
+    <div class="container">
+      <div class="sidebar">
+        
+      </div>
+
+
+
+      <h1>Page not found.</h1>
+
+<h2>Return to the <a href="/">Community site</a>.</h2>
+
+    </div>
+  </div>
+
+  <div id="footer">
+    <div class="container">
+      <ul class="sitemap thin">
+        <li><a href="/">Community Home</a></li>
+        <li><a href="/cookbooks">Cookbooks</a></li>
+        <li><a href="/users">Users</a></li>
+        <li><a href="/questions">Questions</a></li>
+        <li><a href="/ideas">Ideas</a></li>
+        <li><a href="http://opscode.com/privacy-policy">Privacy Policy</a></li>
+        <li><a href="http://opscode.com/terms-of-service">Terms &amp; Conditions</a></li>
+      </ul>
+      <div class="bottom">
+        <div class="logo"></div>
+        <div class="copyright">&copy; 2008-2013 Opscode, Inc. All Rights Reserved</div>
+        <div class="contact"><a href="//www.opscode.com/about#contact">Contact Us</a></div>
+      </div>
+    </div>
+  </div>
+
+
+  </div>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<script type="text/javascript">
+if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='/javascripts/jquery-1.7.1.js' type='text/javascript'%3E%3C/script%3E"));
+}
+if (typeof jQuery == 'undefined' || typeof jQuery.ui == 'undefined') {
+    document.write(unescape("%3Cscript src='/javascripts/jquery.ui-1.8.16.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-6369228-7']);
+    _gaq.push(['_setDomainName', '.opscode.com']);
+    _gaq.push(['_setAllowHash', false]);
+    _gaq.push(['_setAllowLinker', true]);
+    _gaq.push(['_addIgnoredRef','opscode.com']);
+    _gaq.push(['_trackPageview']);
+  </script>
+
+<script src="/javascripts/cached-combined-js.js?d366ad7a1eeb347f16e80d55860575d231fc61e3" type="text/javascript"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+      window._token = 'GOvh7a/AGYvsQsHZFHciMsbzFbQOyDMDi4+E0KCiF6s='
+      Jelly.activatePage('Application', 'index');
+      
+
+//]]>
+</script>
+
+<script type="text/javascript">
+  /* click_once behavior */
+  $("form.click_once").submit(function(){
+    downloading_file = true;
+    $("input[type='submit']", this).attr("disabled", true).addClass("disabled");
+    return true;
+  });
+  /* Enable main mneu */
+  $(document).ready(function() {$("#MenuItem").addClass("active");});
+</script>
+
+
+
+
+</body>
+</html>
